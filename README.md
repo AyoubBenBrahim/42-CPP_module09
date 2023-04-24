@@ -1,5 +1,5 @@
 
-### ex00 RPN
+### ex00
 
 std::map::lower_bound uses binary search to find the first element in the sorted map that is not less than the specified key. The function returns an iterator to this element, which can be used to access the element's value.
 
